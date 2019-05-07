@@ -1,2 +1,2 @@
-# mcap_with_rotation_diversity
+# Multi-Cycle Assignment Problems with Rotational Diversity
 Source code for paper "Multi-Cycle Assignment Problems with Rotational Diversity"
